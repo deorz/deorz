@@ -4,7 +4,7 @@ I'm currently learning Python Web Development and some mobile development :)
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/de.orz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/TheDamnation1044) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/de.orz)
 
 # 💻 Tech Stack:
 ### Languages & Frameworks: 
