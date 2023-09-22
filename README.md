@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working in k-tech<br>
+I'm currently working in AFLT-Systems<br>
 I'm currently learning Python Web Development and some mobile development :)
 
 
